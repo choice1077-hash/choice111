@@ -8,6 +8,7 @@ This is a modern, responsive web application that generates random lottery numbe
 
 *   **Lotto Generation:** Generates 6 unique random numbers between 1 and 45.
 *   **Theme Toggle:** Supports dark and light modes with persistent user preference using `localStorage`.
+*   **Partnership Inquiry Form:** A simple form integrated with Formspree to receive inquiries via email.
 *   **Responsive Design:** Optimized for various screen sizes using a modern flexbox layout.
 *   **Interactive UI:** Smooth transitions and hover effects for a premium feel.
 
